@@ -30,19 +30,21 @@ INSTALLATION
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/chef-bot.git
+   git clone https://github.com/KJithinReddy/Chef_Bot.git
+  
    cd chef-bot
 
 2. Create a virtual environment and activate it:
 
    python -m venv venv
+
    source venv/bin/activate      # On Windows: venv\Scripts\activate
 
-3. Install dependencies:
+4. Install dependencies:
 
    pip install -r requirements.txt
 
-4. Set up environment variables:
+5. Set up environment variables:
 
    Create a .env file in the root directory and add:
 
